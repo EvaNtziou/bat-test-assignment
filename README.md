@@ -19,10 +19,10 @@ The project includes testing practices for Python using pytest:
 - `.github/workflows/pytest.yml` - GitHub Actions workflow configuration
 
 ## Running the Tests
-# Install dependencies
+### Install dependencies
 pip install pytest pytest-mock
 
-# Run tests
+### Run tests
 pytest -v
 
 :))
