@@ -14,8 +14,8 @@ The project includes testing practices for Python using pytest:
 
 ## File Structure
 
-- `bat_functions.py` - The source module with Batman-themed utility functions
-- `test_bat_functions.py` - Pytest test suite
+- `bat_functions.py` - The source module
+- `test_bat_functions.py` - Pytest tests
 - `.github/workflows/pytest.yml` - GitHub Actions workflow configuration
 
-- :))
+:))
